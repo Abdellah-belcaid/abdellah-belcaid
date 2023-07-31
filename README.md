@@ -18,8 +18,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/abdellah-belcaid/" target="_blank">
-<img src=https://img.shields.io/badge/leetCode-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/AIZEN001/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/abdellah-belcaid/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -33,8 +34,9 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/abdellah_belcaid/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <img src="https://img.shields.io/badge/Instagram-FF1493.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+
 </div>  
   
 
