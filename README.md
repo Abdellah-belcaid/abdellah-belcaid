@@ -1,7 +1,15 @@
+
+
 <p align="left" width="100%">
     <img src="https://komarev.com/ghpvc/?username=abdellah-belcaid&label=Profile%20views&color=0e75b6&style=flat"
         alt="abdellah-belcaid" />
 </p>
+</br>
+
+<!-- Intro Section  -->
+<div id="intro-img" align="center">
+    <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=100></a>
+</div>
 
 </br>
 
@@ -181,8 +189,7 @@
 </p>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=abdellah-belcaid" alt="abdellah-belcaid" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdellah-belcaid/](https://github.com/Abdellah-belcaid/)
 
@@ -196,6 +203,9 @@
 
 </br>
 
+ <!-- Github Activities -->
+ ## 📈 Github Stats
+ 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=abdellah-belcaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
         style="max-width: 100%; max-height: 150px;" alt="streak graph" />
@@ -203,13 +213,22 @@
         style="max-width: 100%; max-height: 145px;" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-belcaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2"
         style="max-width: 100%; max-height: 160px;" alt="languages graph" />
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdellah-belcaid&theme=rogue&bg_color=0d1117&border_color=0d1117&hide_border=true&line=18c964&point=403d3d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
 </div>
 
 </br>
-<div style="display: flex; justify-content: center; flex-direction: row;">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=AIZEN001" alt="LeetCode Badges" />
-</div>
 
+
+ <!-- leetCode Activities -->
+ ## 📈 leetCode Stats
+ 
+<div align="center"  column; align-items: center;">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=AIZEN001&theme=sky" alt="LeetCode Badges"  height:120px; ">
+    <img src="https://leetcard.jacoblin.cool/AIZEN001?theme=unicorn&ext=activity" alt="LeetCode Card" style="max-width: 100%; max-height: 100%; ">
+</div>
 
 ###
 
@@ -227,5 +246,5 @@
     <source media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/output/github-contribution-grid-snake.svg">
+        src="https://raw.githubusercontent.com/abdellah-belcaid/output/github-contribution-grid-snake.svg">
 </picture>
