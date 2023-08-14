@@ -232,7 +232,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/abdellah-belcaid/abdellah-belcaid/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
