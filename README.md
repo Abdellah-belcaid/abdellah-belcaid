@@ -193,7 +193,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdellah-belcaid/](https://github.com/Abdellah-belcaid/)
 
-- 💬 Ask me about **spring boot , angular**
+- 💬 Ask me about **spring boot , angular , react & next Js**
 
 - 📫 How to reach me **belcaid.abdellah2001@gmial.com**
 
@@ -232,12 +232,12 @@
 
 ###
 
-![Snake animation](https://github.com/abdellah-belcaid/abdellah-belcaid/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Abdellah-belcaid/abdellah-belcaid/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/abdellah-belcaid/count.svg?" />
+    <img src="https://profile-counter.glitch.me/Abdellah-belcaid/count.svg?" />
 </div>
 
 <picture>
