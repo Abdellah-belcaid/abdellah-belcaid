@@ -205,13 +205,14 @@
 
  <!-- Github Activities -->
  ## 📈 Github Stats
- 
+
+  
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://streak-stats.demolab.com?user=abdellah-belcaid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    <img src="https://streak-stats.demolab.com?user=abdellah-belcaid&locale=en&mode=daily&theme=light&bg_color=00000000&hide_border=true&border_radius=5&order=3"
         style="max-width: 100%; max-height: 150px;" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdellah-belcaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1"
+    <img src="https://github-readme-stats.vercel.app/api?username=abdellah-belcaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&bg_color=00000000&locale=en&hide_border=true&order=1"
         style="max-width: 100%; max-height: 145px;" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-belcaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-belcaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=light&bg_color=00000000&hide_border=true&order=2"
         style="max-width: 100%; max-height: 160px;" alt="languages graph" />
 
 
