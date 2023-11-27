@@ -216,7 +216,7 @@
         style="max-width: 100%; max-height: 160px;" alt="languages graph" />
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdellah-belcaid&theme=rogue&bg_color=0d1117&border_color=0d1117&hide_border=true&line=18c964&point=403d3d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdellah-belcaid&theme=light&bg_color=00000000&border_color=0d1117&hide_border=true&line=18c964&point=403d3d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 </div>
 
