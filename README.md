@@ -82,16 +82,18 @@ portfolio:  https://cvdesignr.com/p/6426fe41c9810
 
 ## 📊 GitHub Stats
 
+<!-- SVGs below are auto-generated daily by .github/workflows/metrics.yml — no broken third-party links -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdellah-belcaid&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-belcaid&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165" />
+<img src="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/main/github-stats.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/abdellah-belcaid/abdellah-belcaid/main/github-langs.svg" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abdellah-belcaid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=abdellah-belcaid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
