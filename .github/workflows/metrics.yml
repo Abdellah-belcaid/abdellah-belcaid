@@ -1,0 +1,62 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Runs daily at 2am UTC
+  workflow_dispatch:        # Also runnable manually from the Actions tab
+  push:
+    branches: [main]
+
+jobs:
+
+  # ─── Job 1: GitHub Stats Cards ────────────────────────────────────────────
+  github-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Stats card (general)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-stats.svg
+          user: abdellah-belcaid
+          base: header, activity, community, repositories
+          config_timezone: Africa/Casablanca
+
+      - name: Languages card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-langs.svg
+          user: abdellah-belcaid
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, makefile, cmake
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage, bytes-size
+          config_timezone: Africa/Casablanca
+
+  # ─── Job 2: Snake Contribution Animation ──────────────────────────────────
+  snake-animation:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: abdellah-belcaid
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
