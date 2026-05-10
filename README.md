@@ -109,7 +109,7 @@ portfolio:  https://cvdesignr.com/p/6426fe41c9810
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=AIZEN001&theme=dark" alt="LeetCode Badges" />
 
-<img src="https://leetcard.jacoblin.cool/AIZEN001?theme=dark&ext=activity" alt="LeetCode Stats" />
+<img src="https://leetcode-stats-six.vercel.app/?username=AIZEN001&theme=dark" alt="LeetCode Stats" />
 
 </div>
 
