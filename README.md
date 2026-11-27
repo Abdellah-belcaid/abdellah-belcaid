@@ -61,21 +61,21 @@ Full-stack engineer at **Norsys Africa** in Marrakech, building business applica
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,elasticsearch&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,elasticsearch&theme=light" />
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,elasticsearch&theme=dark" alt="Back-end: Java, Spring, PostgreSQL, MySQL, MongoDB, Elasticsearch" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmysql%2Cmongodb%2Celasticsearch&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmysql%2Cmongodb%2Celasticsearch&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmysql%2Cmongodb%2Celasticsearch&theme=dark" alt="Back-end: Java, Spring, PostgreSQL, MySQL, MongoDB, Elasticsearch" />
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,vite&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,vite&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,vite&theme=dark" alt="Front-end: React, Angular, Next.js, TypeScript, JavaScript, Tailwind, Vite" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cangular%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Cvite&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cangular%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Cvite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react%2Cangular%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Cvite&theme=dark" alt="Front-end: React, Angular, Next.js, TypeScript, JavaScript, Tailwind, Vite" />
   </picture>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,githubactions,gitlab,cloudflare,linux,git,idea&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,nginx,githubactions,gitlab,cloudflare,linux,git,idea&theme=light" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gitlab,cloudflare,linux,git,idea&theme=dark" alt="DevOps and tools: Docker, Nginx, GitHub Actions, GitLab, Cloudflare, Linux, Git, IntelliJ IDEA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Cgithubactions%2Cgitlab%2Ccloudflare%2Clinux%2Cgit%2Cidea&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Cgithubactions%2Cgitlab%2Ccloudflare%2Clinux%2Cgit%2Cidea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker%2Cnginx%2Cgithubactions%2Cgitlab%2Ccloudflare%2Clinux%2Cgit%2Cidea&theme=dark" alt="DevOps and tools: Docker, Nginx, GitHub Actions, GitLab, Cloudflare, Linux, Git, IntelliJ IDEA" />
   </picture>
 </p>
 
