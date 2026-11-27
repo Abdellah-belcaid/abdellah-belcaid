@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+  <title id="title">Experience at Norsys Africa</title>
+  <desc id="desc">Assessment platform (2024 – 2025); Health-insurance app (FR) (2025 – 2026); Driving-school SaaS (2025), 18–30 s → under 2 s; Offline-first agri app (2026 – now).</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#30363d"/><stop offset="0.5" stop-color="#58a6ff" stop-opacity=".6"/><stop offset="1" stop-color="#30363d"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#d2a8ff"/></linearGradient>
+    <radialGradient id="comet"><stop offset="0" stop-color="#ffffff"/><stop offset=".4" stop-color="#58a6ff"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; }
+    .narrow { display: none; }
+    @media (max-width: 640px) { .wide { display: none; } .narrow { display: inline; } }
+    .date { font-size: 13px; }
+    .heading { font-size: 19px; }
+    @media (max-width: 640px) { .date { font-size: 26px; } .heading { font-size: 36px; } }
+    .draw { stroke-dasharray: 880; stroke-dashoffset: 880; animation: draw 2.2s ease-out .2s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    .step { opacity: 0; animation: rise .7s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    .ring { animation: ring 1.8s ease-out infinite; transform-origin: 830px 120px; }
+    @keyframes ring { 0% { transform: scale(1); opacity: .9 } 100% { transform: scale(3); opacity: 0 } }
+  </style>
+
+  <rect x="1.5" y="1.5" width="997" height="267" rx="16" fill="#0d1117" stroke="url(#border)" stroke-width="2"/>
+  <text class="sans heading" x="40" y="46" font-weight="700" fill="#e6edf3">Software Engineer · <tspan fill="#58a6ff">Norsys Africa</tspan></text>
+  <text class="mono wide" x="960" y="44" font-size="14" fill="#8b949e" text-anchor="end">Marrakech · Feb 2024 → now</text>
+
+  <line x1="60" y1="120" x2="940" y2="120" stroke="#21262d" stroke-width="4" stroke-linecap="round"/>
+  <line class="draw" x1="60" y1="120" x2="940" y2="120" stroke="url(#track)" stroke-width="4" stroke-linecap="round"/>
+  <circle cy="120" r="9" fill="url(#comet)" opacity="0">
+    <animate attributeName="cx" values="60;940" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <g class="step" style="animation-delay:0.5s">
+      <text class="mono date" x="170" y="94" fill="#8b949e" text-anchor="middle">2024 – 2025</text>
+      <circle cx="170" cy="120" r="8" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+      <text class="sans wide" x="170" y="158" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="middle">Assessment platform</text>
+      <text class="sans narrow" x="170" y="178" font-size="32" font-weight="600" fill="#e6edf3" text-anchor="middle">Assessment</text>
+      <text class="sans wide" x="170" y="182" font-size="13" fill="#8b949e" text-anchor="middle">Spring Boot · React · Angular</text>
+      <text class="sans wide" x="170" y="204" font-size="13" fill="#8b949e" text-anchor="middle">Real-time exams over WebSocket</text>
+      <text class="sans wide" x="170" y="226" font-size="13" fill="#8b949e" text-anchor="middle">Code execution with Judge0</text>
+      
+      
+    </g>
+    <g class="step" style="animation-delay:1.0s">
+      <text class="mono date" x="390" y="94" fill="#8b949e" text-anchor="middle">2025 – 2026</text>
+      <circle cx="390" cy="120" r="8" fill="#0d1117" stroke="#79c0ff" stroke-width="3"/>
+      <text class="sans wide" x="390" y="158" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="middle">Health-insurance app (FR)</text>
+      <text class="sans narrow" x="390" y="178" font-size="32" font-weight="600" fill="#e6edf3" text-anchor="middle">Health app</text>
+      <text class="sans wide" x="390" y="182" font-size="13" fill="#8b949e" text-anchor="middle">Legacy Java · Spring · Oracle</text>
+      <text class="sans wide" x="390" y="204" font-size="13" fill="#8b949e" text-anchor="middle">Production issue analysis</text>
+      <text class="sans wide" x="390" y="226" font-size="13" fill="#8b949e" text-anchor="middle">Automation scripts</text>
+      
+      
+    </g>
+    <g class="step" style="animation-delay:1.5s">
+      <text class="mono date" x="610" y="94" fill="#8b949e" text-anchor="middle">2025</text>
+      <circle cx="610" cy="120" r="8" fill="#0d1117" stroke="#a371f7" stroke-width="3"/>
+      <text class="sans wide" x="610" y="158" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="middle">Driving-school SaaS</text>
+      <text class="sans narrow" x="610" y="178" font-size="32" font-weight="600" fill="#e6edf3" text-anchor="middle">Driving SaaS</text>
+      <text class="sans wide" x="610" y="182" font-size="13" fill="#8b949e" text-anchor="middle">Angular 19 · Spring Boot 3</text>
+      <text class="sans wide" x="610" y="204" font-size="13" fill="#8b949e" text-anchor="middle">Calendar + double-booking guard</text>
+      <text class="sans wide" x="610" y="228" font-size="14" font-weight="700" fill="#3fb950" text-anchor="middle">⚡ 18–30 s → under 2 s</text>
+      <text class="sans narrow" x="610" y="226" font-size="26" font-weight="700" fill="#3fb950" text-anchor="middle">18–30 s → &lt; 2 s</text>
+    </g>
+    <g class="step" style="animation-delay:2.0s">
+      <text class="mono date" x="830" y="94" fill="#d2a8ff" text-anchor="middle">2026 – now</text>
+      <circle class="ring" cx="830" cy="120" r="8" fill="none" stroke="#d2a8ff" stroke-width="2"/>
+      <circle cx="830" cy="120" r="8" fill="#d2a8ff"/>
+      <text class="sans wide" x="830" y="158" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="middle">Offline-first agri app</text>
+      <text class="sans narrow" x="830" y="178" font-size="32" font-weight="600" fill="#e6edf3" text-anchor="middle">Agri app</text>
+      <text class="sans wide" x="830" y="182" font-size="13" fill="#8b949e" text-anchor="middle">React Native · React · Spring Boot</text>
+      <text class="sans wide" x="830" y="204" font-size="13" fill="#8b949e" text-anchor="middle">Two-way offline sync</text>
+      <text class="sans wide" x="830" y="226" font-size="13" fill="#8b949e" text-anchor="middle">Built for an NGO, works offline</text>
+      
+      
+    </g>
+</svg>

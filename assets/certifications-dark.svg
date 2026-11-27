@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+  <title id="title">Certifications</title>
+  <desc id="desc">React Basics (Meta), React Advanced (Meta), Securing Spring Boot 3 with JWT, Microservices with Spring Cloud (Mindluster), Getting Started with Spring Boot, Spring Data MongoDB, Docker for Developers (Mindluster), Dockerize a Spring Boot App (Great Learning), Data Structures &amp; Algorithms in Java, Front-End Apps with React, Next.js (Mindluster), Tailwind CSS (Mindluster), Introduction to DevOps, SQL Advanced, Git &amp; GitHub (Mindluster).</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".08" stop-color="#fff"/>
+      <stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edges"><rect width="1000" height="150" fill="url(#fade)"/></mask>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; }
+    .row1 { transform: translate(0px, 22px); }
+    .row2 { transform: translate(0px, 88px); }
+    @media (max-width: 640px) {
+      .row1 { transform: translate(0px, 4px) scale(1.75); }
+      .row2 { transform: translate(0px, 78px) scale(1.75); }
+    }
+    @keyframes left { from { transform: translateX(0) } to { transform: translateX(var(--w)) } }
+    @keyframes right { from { transform: translateX(var(--w)) } to { transform: translateX(0) } }
+  </style>
+  <g mask="url(#edges)">
+  <g class="row row1">
+    <g style="animation:left 70s linear infinite;--w:-2445px">
+      <g><g transform="translate(0 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Basics</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(212 0)">
+        <rect width="215" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Advanced</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(441 0)">
+        <rect width="296" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Securing Spring Boot 3 with JWT</tspan></text>
+      </g>
+      <g transform="translate(751 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Microservices with Spring Cloud</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1166 0)">
+        <rect width="304" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Getting Started with Spring Boot</tspan></text>
+      </g>
+      <g transform="translate(1484 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Spring Data MongoDB</tspan></text>
+      </g>
+      <g transform="translate(1696 0)">
+        <rect width="320" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Docker for Developers</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(2030 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Dockerize a Spring Boot App</tspan><tspan fill="#8b949e"> · Great Learning</tspan></text>
+      </g></g>
+      <g transform="translate(2445 0)"><g transform="translate(0 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Basics</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(212 0)">
+        <rect width="215" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Advanced</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(441 0)">
+        <rect width="296" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Securing Spring Boot 3 with JWT</tspan></text>
+      </g>
+      <g transform="translate(751 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Microservices with Spring Cloud</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1166 0)">
+        <rect width="304" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Getting Started with Spring Boot</tspan></text>
+      </g>
+      <g transform="translate(1484 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Spring Data MongoDB</tspan></text>
+      </g>
+      <g transform="translate(1696 0)">
+        <rect width="320" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Docker for Developers</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(2030 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Dockerize a Spring Boot App</tspan><tspan fill="#8b949e"> · Great Learning</tspan></text>
+      </g></g>
+      <g transform="translate(4890 0)"><g transform="translate(0 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Basics</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(212 0)">
+        <rect width="215" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">React Advanced</tspan><tspan fill="#8b949e"> · Meta</tspan></text>
+      </g>
+      <g transform="translate(441 0)">
+        <rect width="296" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Securing Spring Boot 3 with JWT</tspan></text>
+      </g>
+      <g transform="translate(751 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Microservices with Spring Cloud</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1166 0)">
+        <rect width="304" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Getting Started with Spring Boot</tspan></text>
+      </g>
+      <g transform="translate(1484 0)">
+        <rect width="198" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Spring Data MongoDB</tspan></text>
+      </g>
+      <g transform="translate(1696 0)">
+        <rect width="320" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Docker for Developers</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(2030 0)">
+        <rect width="401" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Dockerize a Spring Boot App</tspan><tspan fill="#8b949e"> · Great Learning</tspan></text>
+      </g></g>
+    </g>
+  </g>
+  <g class="row row2">
+    <g style="animation:right 50s linear infinite;--w:-1746px">
+      <g><g transform="translate(0 0)">
+        <rect width="336" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Data Structures &amp; Algorithms in Java</tspan></text>
+      </g>
+      <g transform="translate(350 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Front-End Apps with React</tspan></text>
+      </g>
+      <g transform="translate(611 0)">
+        <rect width="206" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Next.js</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(831 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Tailwind CSS</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1092 0)">
+        <rect width="223" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Introduction to DevOps</tspan></text>
+      </g>
+      <g transform="translate(1329 0)">
+        <rect width="142" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">SQL Advanced</tspan></text>
+      </g>
+      <g transform="translate(1485 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Git &amp; GitHub</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g></g>
+      <g transform="translate(1746 0)"><g transform="translate(0 0)">
+        <rect width="336" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Data Structures &amp; Algorithms in Java</tspan></text>
+      </g>
+      <g transform="translate(350 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Front-End Apps with React</tspan></text>
+      </g>
+      <g transform="translate(611 0)">
+        <rect width="206" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Next.js</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(831 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Tailwind CSS</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1092 0)">
+        <rect width="223" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Introduction to DevOps</tspan></text>
+      </g>
+      <g transform="translate(1329 0)">
+        <rect width="142" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">SQL Advanced</tspan></text>
+      </g>
+      <g transform="translate(1485 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Git &amp; GitHub</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g></g>
+      <g transform="translate(3492 0)"><g transform="translate(0 0)">
+        <rect width="336" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Data Structures &amp; Algorithms in Java</tspan></text>
+      </g>
+      <g transform="translate(350 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Front-End Apps with React</tspan></text>
+      </g>
+      <g transform="translate(611 0)">
+        <rect width="206" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Next.js</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(831 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Tailwind CSS</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g>
+      <g transform="translate(1092 0)">
+        <rect width="223" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Introduction to DevOps</tspan></text>
+      </g>
+      <g transform="translate(1329 0)">
+        <rect width="142" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">SQL Advanced</tspan></text>
+      </g>
+      <g transform="translate(1485 0)">
+        <rect width="247" height="40" rx="20" fill="#161b22" stroke="#30363d"/>
+        <circle cx="20" cy="20" r="4" fill="#3fb950"/>
+        <text class="sans" x="32" y="25" font-size="15"><tspan fill="#c9d1d9" font-weight="600">Git &amp; GitHub</tspan><tspan fill="#8b949e"> · Mindluster</tspan></text>
+      </g></g>
+    </g>
+  </g>
+  </g>
+</svg>

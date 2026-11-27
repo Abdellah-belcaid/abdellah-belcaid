@@ -1,0 +1,78 @@
+{
+  "$comment": "Single source for the generated profile images. Edit here, push, and the 'Profile assets' workflow rebuilds assets/*.svg. Dates are YYYY-MM.",
+
+  "name": "Abdellah Belcaid",
+  "greeting": "Hi there, I'm",
+  "location": "Marrakech, Morocco",
+  "careerStart": "2024-02",
+
+  "roles": [
+    "Full-stack engineer @ Norsys Africa",
+    "Java · Spring Boot · React · Angular",
+    "From the first commit to production"
+  ],
+
+  "terminal": {
+    "whoami": "abdellah belcaid, full-stack engineer",
+    "stack": "java · spring boot · react · angular",
+    "now": [
+      { "label": "work", "text": "offline-first agri app" },
+      { "label": "side", "text": "tadlalt e-commerce (private)" }
+    ]
+  },
+
+  "company": { "title": "Software Engineer", "name": "Norsys Africa", "city": "Marrakech" },
+
+  "timeline": [
+    {
+      "start": "2024-07",
+      "end": "2025-02",
+      "title": "Assessment platform",
+      "short": "Assessment",
+      "lines": ["Spring Boot · React · Angular", "Real-time exams over WebSocket", "Code execution with Judge0"]
+    },
+    {
+      "start": "2025-02",
+      "end": "2026-01",
+      "title": "Health-insurance app (FR)",
+      "short": "Health app",
+      "lines": ["Legacy Java · Spring · Oracle", "Production issue analysis", "Automation scripts"]
+    },
+    {
+      "start": "2025-06",
+      "end": "2025-08",
+      "title": "Driving-school SaaS",
+      "short": "Driving SaaS",
+      "lines": ["Angular 19 · Spring Boot 3", "Calendar + double-booking guard"],
+      "highlight": "⚡ 18–30 s → under 2 s",
+      "highlightShort": "18–30 s → < 2 s"
+    },
+    {
+      "start": "2026-02",
+      "end": null,
+      "title": "Offline-first agri app",
+      "short": "Agri app",
+      "lines": ["React Native · React · Spring Boot", "Two-way offline sync", "Built for an NGO, works offline"]
+    }
+  ],
+
+  "certifications": [
+    { "title": "React Basics", "issuer": "Meta" },
+    { "title": "React Advanced", "issuer": "Meta" },
+    { "title": "Securing Spring Boot 3 with JWT" },
+    { "title": "Microservices with Spring Cloud", "issuer": "Mindluster" },
+    { "title": "Getting Started with Spring Boot" },
+    { "title": "Spring Data MongoDB" },
+    { "title": "Docker for Developers", "issuer": "Mindluster" },
+    { "title": "Dockerize a Spring Boot App", "issuer": "Great Learning" },
+    { "title": "Data Structures & Algorithms in Java" },
+    { "title": "Front-End Apps with React" },
+    { "title": "Next.js", "issuer": "Mindluster" },
+    { "title": "Tailwind CSS", "issuer": "Mindluster" },
+    { "title": "Introduction to DevOps" },
+    { "title": "SQL Advanced" },
+    { "title": "Git & GitHub", "issuer": "Mindluster" }
+  ],
+
+  "leetcode": { "username": "AIZEN001" }
+}

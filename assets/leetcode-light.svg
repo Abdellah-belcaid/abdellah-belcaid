@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">LeetCode: 208 problems solved</title>
+  <desc id="desc">164 easy, 42 medium, 2 hard, user AIZEN001.</desc>
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; }
+    .narrow { display: none; }
+    @media (max-width: 640px) { .wide { display: none; } .narrow { display: inline; } }
+    .label { font-size: 15px; } .count { font-size: 34px; } .title { font-size: 22px; } .handle { font-size: 15px; }
+    .ring-count { font-size: 38px; } .ring-label { font-size: 14px; }
+    @media (max-width: 640px) {
+      .label { font-size: 28px; } .count { font-size: 40px; } .title { font-size: 34px; } .handle { display: none; }
+      .ring-count { font-size: 46px; } .ring-label { font-size: 24px; }
+    }
+    @keyframes seg { from { stroke-dasharray: 0 439.8 } to { stroke-dasharray: var(--len) 439.8 } }
+    .tile { opacity: 0; animation: rise .6s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    .spin { animation: spin 12s linear infinite; transform-origin: 140px 110px; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+  </style>
+
+  <rect x="1.5" y="1.5" width="997" height="217" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+
+  <circle cx="140" cy="110" r="70" fill="none" stroke="#eaeef2" stroke-width="12"/>
+  <circle class="spin" cx="140" cy="110" r="88" fill="none" stroke="#d4a017" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 10"/>
+  <circle cx="140" cy="110" r="70" fill="none" stroke="#00a38c" stroke-width="12" stroke-linecap="round"
+      stroke-dasharray="342.8 439.8" transform="rotate(-90.0 140 110)"
+      style="--len:342.8;animation:seg 1s ease-out 0.2s both"/>
+    <circle cx="140" cy="110" r="70" fill="none" stroke="#d4a017" stroke-width="12" stroke-linecap="round"
+      stroke-dasharray="84.8 439.8" transform="rotate(193.8 140 110)"
+      style="--len:84.8;animation:seg 1s ease-out 0.7s both"/>
+    <circle cx="140" cy="110" r="70" fill="none" stroke="#d1242f" stroke-width="12" stroke-linecap="round"
+      stroke-dasharray="0.2 439.8" transform="rotate(266.5 140 110)"
+      style="--len:0.2;animation:seg 1s ease-out 1.2s both"/>
+  <text class="sans ring-count" x="140" y="118" font-weight="700" fill="#1f2328" text-anchor="middle">208</text>
+  <text class="sans ring-label" x="140" y="146" fill="#59636e" text-anchor="middle">solved</text>
+
+  <text class="sans title" x="290" y="58" font-weight="700" fill="#1f2328">LeetCode</text>
+  <text class="mono handle" x="400" y="57" fill="#59636e">@AIZEN001</text>
+  <g class="tile" style="animation-delay:0.4s">
+      <rect x="290" y="86" width="210" height="100" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <rect x="290" y="86" width="210" height="4" rx="2" fill="#00a38c"/>
+      <text class="sans label" x="308" y="118" fill="#00a38c" font-weight="600">Easy</text>
+      <text class="sans count" x="308" y="164" fill="#1f2328" font-weight="700">164</text>
+      <text class="sans wide" x="482" y="164" font-size="13" fill="#59636e" text-anchor="end">/ 978 · 16.8%</text>
+    </g>
+    <g class="tile" style="animation-delay:0.6s">
+      <rect x="520" y="86" width="210" height="100" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <rect x="520" y="86" width="210" height="4" rx="2" fill="#d4a017"/>
+      <text class="sans label" x="538" y="118" fill="#d4a017" font-weight="600">Medium</text>
+      <text class="sans count" x="538" y="164" fill="#1f2328" font-weight="700">42</text>
+      <text class="sans wide" x="712" y="164" font-size="13" fill="#59636e" text-anchor="end">/ 2152 · 2.0%</text>
+    </g>
+    <g class="tile" style="animation-delay:0.8s">
+      <rect x="750" y="86" width="210" height="100" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <rect x="750" y="86" width="210" height="4" rx="2" fill="#d1242f"/>
+      <text class="sans label" x="768" y="118" fill="#d1242f" font-weight="600">Hard</text>
+      <text class="sans count" x="768" y="164" fill="#1f2328" font-weight="700">2</text>
+      <text class="sans wide" x="942" y="164" font-size="13" fill="#59636e" text-anchor="end">/ 994 · 0.2%</text>
+    </g>
+</svg>
